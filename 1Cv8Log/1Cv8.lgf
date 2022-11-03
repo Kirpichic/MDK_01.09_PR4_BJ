@@ -18,4 +18,6 @@
 {4,"_$User$_.New",9},
 {4,"_$Session$_.AuthenticationError",10},
 {1,a8c560d9-2da4-48ac-817c-950d196fcad5,"Администратор",2},
-{13,1,2}
+{13,1,2},
+{4,"_$User$_.Update",11},
+{5,f13dcce2-3481-4ff3-b895-18dfca27334c,"",2}

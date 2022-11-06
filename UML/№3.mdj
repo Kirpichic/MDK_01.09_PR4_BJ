@@ -1109,9 +1109,9 @@
 									"font": "Arial;13;1",
 									"left": 792,
 									"top": 189,
-									"width": 224.33349609375,
+									"width": 237.4365234375,
 									"height": 13,
-									"text": "Единицы измерения"
+									"text": "Единицы измерения(Справочники)"
 								},
 								{
 									"_type": "ERDColumnCompartmentView",
@@ -1135,7 +1135,7 @@
 											"font": "Arial;13;0",
 											"left": 797,
 											"top": 212,
-											"width": 214.33349609375,
+											"width": 227.4365234375,
 											"height": 13
 										},
 										{
@@ -1150,21 +1150,21 @@
 											"font": "Arial;13;0",
 											"left": 797,
 											"top": 227,
-											"width": 214.33349609375,
+											"width": 227.4365234375,
 											"height": 13
 										}
 									],
 									"font": "Arial;13;0",
 									"left": 792,
 									"top": 207,
-									"width": 224.33349609375,
+									"width": 237.4365234375,
 									"height": 38
 								}
 							],
 							"font": "Arial;13;0",
 							"left": 792,
 							"top": 184,
-							"width": 224.33349609375,
+							"width": 237.4365234375,
 							"height": 61,
 							"nameLabel": {
 								"$ref": "AAAAAAGETeRu0+0/mEY="
@@ -1356,7 +1356,7 @@
 									"top": 493,
 									"width": 224.33349609375,
 									"height": 13,
-									"text": "Тип материала"
+									"text": "Тип материала(Справочники)"
 								},
 								{
 									"_type": "ERDColumnCompartmentView",
@@ -2050,7 +2050,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGEPMAnN05iS1c="
 					},
-					"name": "Единицы измерения",
+					"name": "Единицы измерения(Справочники)",
 					"ownedElements": [
 						{
 							"_type": "ERDRelationship",
@@ -2139,7 +2139,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGEPMAnN05iS1c="
 					},
-					"name": "Тип материала",
+					"name": "Тип материала(Справочники)",
 					"ownedElements": [
 						{
 							"_type": "ERDRelationship",
